@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "title": "post three",
+      "body": "post body one hello",
+      "published": "04-20-2023",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "title": "post two",
+      "body": "post body two",
+      "published": "11-12-2023"
+    },
+    {
+      "id": 3,
+      "title": "post three",
+      "body": "post body three",
+      "published": "12-12-2023"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ram Sanjay",
+      "job": "Developer",
+      "location": "Bangalore"
+    },
+    {
+      "name": "Vijay",
+      "job": "Tester",
+      "location": "Hyderabad",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Praveen",
+      "job": "Data Scientist",
+      "location": "Chennai"
+    }
+  ]
+}
